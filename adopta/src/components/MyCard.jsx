@@ -4,7 +4,7 @@ import Colores from "./Tags";
 
 function Tarjeta(props) {
   return (
-    <Card style={{ width: "18rem" }}>
+    <Card style={{ width: "25rem" }}>
       <Card.Img variant="top" src={props.imagen} />
       <Card.Body>
         <Card.Title>{props.nombre}</Card.Title>

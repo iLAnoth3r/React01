@@ -1,0 +1,9 @@
+.piePagina {
+  width: 100%;
+  text-align: center;
+  font-size: 3vh;
+  background-color: brown;
+  height: 10vh;
+  position: fixed;
+  margin-top: 2dvh;
+}

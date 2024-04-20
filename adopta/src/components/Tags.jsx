@@ -1,4 +1,5 @@
 import Badge from "react-bootstrap/Badge";
+import "bootstrap/dist/css/bootstrap.css";
 
 function Colores(props) {
   console.log(props);

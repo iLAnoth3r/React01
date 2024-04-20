@@ -1,8 +1,16 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  overflow: hidden;
+  width: 100dvw;
+}
+
+.perros {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5rem;
+  width: 70vw;
 }
 
 .logo {
